@@ -12,4 +12,5 @@ zope.interface == 5.2.0
 numpy == 1.22.4
 opencv-contrib-python == 4.5.5.62
 imutils == 0.5.4
-opencv-python ==4.6.0.66
+opencv-python == 4.6.0.66
+picamera== 1.13
